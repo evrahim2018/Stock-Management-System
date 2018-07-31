@@ -1,0 +1,17 @@
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojAssemblyReference.cache
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Form1.resources
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Category.resources
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Company.resources
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.cache
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Item.resources
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.SearchAndView.resources
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockIn.resources
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockOut.resources
+C:\Users\Nayan CSE\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ViewSales.resources
